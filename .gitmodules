@@ -1,0 +1,3 @@
+[submodule "addon-zwavejs2mqtt"]
+	path = addon-zwavejs2mqtt
+	url = https://github.com/justindthomas/addon-zwavejs2mqtt
